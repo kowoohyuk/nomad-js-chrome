@@ -10,7 +10,8 @@ h1 {
   color: #333;
 }
 
-.form, .greetings {
+.form, 
+.greetings {
   display: none;
 }
 
